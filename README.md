@@ -27,7 +27,7 @@ Membuat sistem sederhana untuk menampilkan data Genre dan Author. Data diambil d
 ## 💻 Cara Menjalankan
 1. Clone repositori ini:
    ```bash
-   git clone https://github.com/Minkqwqw/Tugas-1-laravel.git(https://github.com/Minkqwqw/Tugas-1-laravel.git)
+   git clone https://github.com/Minkqwqw/Tugas-1-laravel.git
    ```
 2. Jalankan server development Laravel:
    ```bash
